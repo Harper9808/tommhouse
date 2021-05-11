@@ -1,2 +1,5 @@
 p {
-  color: red; }
+  color: #000100; }
+
+* {
+  font-family: "Noto Sans KR", sans-serif; }
